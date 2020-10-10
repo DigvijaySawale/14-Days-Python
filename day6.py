@@ -4,7 +4,7 @@ print("Wel-Come to Day 6 of 21 Days Programming Challenge")
 Dict = dict()
 Dict = {'Name': 'Digvijay', 'Lastname': 'Sawale','College':'D Y Patil College of Engineering','Rollno':110,'Year':'TE','Div':'B'}
 
-print(Dict,"\n")    #printint the dictionary
+print(Dict,"\n")    #printing the dictionary
 
 for x in Dict:
     print(x)    #printing keys in dictionary usib=ng for loop
